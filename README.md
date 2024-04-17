@@ -1,33 +1,30 @@
-### Hola! Soy Hernan! 👋 
-##"Ubora"
-<!--
-**Uboras/Uboras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hola 👋, Hernan
+### *UBORA*  Desarrollador Full-Stack
 
-<a href="https://twitter.com/darshanjain01">
-  <img align="left" alt="Darshan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/darshan-j-236793121/">
-  <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/darshan-jain">
-  <img align="left" alt="Darshan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/darshanjain01">
-  <img align="left" alt="Darshan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://medium.com/@darshanjain_5991">
-  <img align="left" alt="Darshan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+En 2022 empece a programar con java/React en un bootcamp, a los golpes y con diciplina avanzamos siendo autodidacta. 
+Siempre aprendiendo del error y buscando mejorar constantemente. 
+#### Apasionado por los animales, los gatos, ¿Acaso existe otro animal? #TeamCat
+Con el tiempo aprendí tecnologías de front y back, con la emocion y sentimiento de que siempre hay una tecnología nueva, para agregar a esa experiencia. 
+Entusiasmado por lo que se viene, trabajando en mi logica como en mi diseño para ir mejorando dia, mes año tras año. 
+Les deseo lo mejor, el mundo es basto para todos y no compartir es caminar a una baja velocidad. 
+Les deseo Éxitos.
 
-<br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+### *Habilidades*:
+ #### Front-End: React / JavaScript / HTML / CSS 
+ #### &nbsp;Back-End: Java / SQL / MySql / JPA 
+ #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile: React-Native.
+ #### . . . 
+<br/>
+ <br/>
+ <br/>
+ 
+- 🔭 Estoy trabajando en Trabajo freelance 
+- 🌱 Estoy aprendiendo Docker / jenkins / Junit 
+- 📫 Cómo contactarme: hernanmanera@hotmail.com.ar 
+- ⚡ Dato curioso: Me gusta el tradding y busco desarrollar automatizadores de operaciones 
 
-### I am Darshan Jain
-- A Full-Stack Developer & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Blockchain.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-⭐️ From [Darshan Jain](https://github.com/darshan-jain)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Uboras)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hernan-manera-62312682/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hernanmanera/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uboras)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Uboras&show_icons=true)  
+
